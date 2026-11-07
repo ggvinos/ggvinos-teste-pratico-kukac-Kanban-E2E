@@ -1,5 +1,7 @@
 # Kanban E2E – Testes Automatizados com Cypress
 
+[![cypress](https://github.com/ggvinos/ggvinos-teste-pratico-kukac-Kanban-E2E/actions/workflows/cypress.yml/badge.svg)](https://github.com/ggvinos/ggvinos-teste-pratico-kukac-Kanban-E2E/actions/workflows/cypress.yml)
+
 ## Descrição
 
 Este repositório contém os testes automatizados de ponta a ponta (E2E) desenvolvidos com **Cypress** para validar funcionalidades principais da aplicação **Kanban**.  
